@@ -7,7 +7,7 @@
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build"
   },
-  "author": "Updated Author Name",
+  "author": "New Author Name",
   "license": "MIT",
   "dependencies": {
     "axios": "^0.21.1",
