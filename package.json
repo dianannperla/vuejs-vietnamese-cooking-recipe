@@ -1,0 +1,21 @@
+{
+  "name": "vuejs-vietnamese-cooking-recipe",
+  "version": "1.0.0",
+  "description": "Dự án chuyên về công thức nấu ăn Việt Nam",
+  "main": "index.js",
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "vue": "^2.6.12",
+    "vue-router": "^3.2.0",
+    "vuex": "^3.6.2"
+  },
+  "devDependencies": {
+    "@vue/cli-service": "^4.5.0"
+  }
+}
